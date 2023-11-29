@@ -1,6 +1,6 @@
 aaaa
-bbb
-aaa
-
-cccc
-aaaa
+tbbb
+ataa
+t
+ctccc
+aataa
